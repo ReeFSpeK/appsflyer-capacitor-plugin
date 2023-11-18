@@ -1,6 +1,6 @@
 {
   "name": "appsflyer-capacitor-plugin",
-  "version" : "6.4.2-beta",
+  "version" : "6.4.2-beta1",
   "iosSdkVersion": "6.4.2",
   "description": "AppsFlyer SDK plugin for Capacitor",
   "main": "dist/plugin.cjs.js",
